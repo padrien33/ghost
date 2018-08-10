@@ -4,9 +4,9 @@
 #
 # @example
 #   include ghost
-
+#include 'docker'
 class ghost {
-include 'docker'
+
 	docker::image { 'ghost':
 		 }
 	docker::run { 'demo_ghost':
