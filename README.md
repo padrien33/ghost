@@ -41,9 +41,9 @@ If there's more that they should know about, though, this is the place to mentio
 
 ### Setup Requirements **OPTIONAL**
 
-If your module requires anything extra before setting up (pluginsync enabled, another module, etc.), mention it here.
+This module needs to have the docker module already installed:
 
-If your most recent release breaks compatibility or requires particular steps for upgrading, you might want to include an additional "Upgrading" section here.
+https://github.com/puppetlabs/puppetlabs-docker
 
 ### Beginning with ghost
 
