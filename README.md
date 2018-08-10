@@ -24,9 +24,7 @@ The README template below provides a starting point with details about what info
 
 ## Description
 
-Briefly tell users why they might want to use your module. Explain what your module does and what kind of problems users can solve with it.
-
-This should be a fairly short description helps the user decide if your module is what they want.
+This module will create a docker container running Ghost. This is for demo purpose and should not be use in production.
 
 
 ## Setup
